@@ -19,7 +19,6 @@ Focado em uma base limpa para construir interfaces de visualização e interaç�
 - **Arrastar com botão esquerdo:** pan
 - **Roda do mouse:** zoom no cursor
 - **Clique:** selecionar elemento
-- **Modo Medição:** [descreva aqui se é tecla, botão, ou clique + arrasto]
 
 ## 🧱 Tecnologias
 
